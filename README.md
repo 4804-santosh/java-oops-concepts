@@ -1,2 +1,2 @@
 # java-oops-concepts
-Complete Java OOP Concepts , real-world examples, code examples and explanations.
+Complete Java OOP Concepts , code examples and explanations.
